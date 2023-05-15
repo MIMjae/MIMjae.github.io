@@ -4,11 +4,12 @@ main:
 #     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - auto_categories: true
   - title: "Home"
     url: https://MIMjae.github.io
   - title: "Posts"
     url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+  - title: "Category"
+    url: /categories/
   # - title: "Sitemap"
   #   url: /sitemap/
