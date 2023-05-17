@@ -3,6 +3,8 @@ title: "Front"
 layout: archive
 permalink: /categories/Front/
 taxonomy: Front
+sidebar:
+  nav: "docs"
 ---
 
 {% assign posts = site.categories['Front']%}
