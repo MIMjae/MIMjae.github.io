@@ -13,3 +13,12 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+    
+    
+docs:
+  - title : Study
+    children:
+      - title: "Front"
+        url: /categories/Front
+      - title: "Backend"
+        url: /categories/Backend
