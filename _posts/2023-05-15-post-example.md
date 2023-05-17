@@ -1,7 +1,7 @@
 ---
 title: "[TEST]첫번째 게시글"
 categories:
-  - Edge Case
+  - Front
 tags:
   - content
   - css
