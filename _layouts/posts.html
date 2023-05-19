@@ -3,13 +3,20 @@ layout: archive
 ---
 
 {{ content }}
-<script src="https://utteranc.es/client.js"
-        repo="MIMjae/MIMjae.github.io"
-        issue-term="url"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
+
+<div class="col-lg-8 col-md-10 mx-auto">
+ <hr />
+  
+  <script src="https://utteranc.es/client.js"
+    repo="dev-yakuza/dev-yakuza.github.io"
+    issue-term="url"
+    label="comment"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+  </script>
+  
+</div>
 
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
