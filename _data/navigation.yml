@@ -24,3 +24,6 @@ docs:
       - title: "Backend"
         url: /categories/Backend
         category: "Backend"
+      - title: "openAI"
+        url: /categories/openAI
+        category: "openAI"
