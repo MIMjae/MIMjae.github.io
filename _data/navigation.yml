@@ -20,5 +20,7 @@ docs:
     children:
       - title: "Front"
         url: /categories/Front
+        category: "Front"
       - title: "Backend"
         url: /categories/Backend
+        category: "Backend"
