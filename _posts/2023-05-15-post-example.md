@@ -1,69 +1,36 @@
 ---
-title: "[TEST]첫번째 게시글"
+title: "Full Stack 스터디 계획"
 categories:
-  - Front
-tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
-
+  - etc
+# tags:
 sidebar:
   nav: "docs"
 ---
 
-Nested and mixed lists are an interesting beast. It's a corner case to make sure that
+## 스터디 목적
+---
+- 개발 역량 강화 및 개발 문화 정착 도모
+  
+<br>
+<br>
 
-* Lists within lists do not break the ordered list numbering order
-* Your list styles go deep enough.
+## 스터디 운영방안
+---
+- 운영기간 : 2023/06 ~ 2023/12 (6개월 간)
 
-### Ordered -- Unordered -- Ordered
+  - 강의 시청 : 2023/06 ~ 2023/09
+  - Toy-Project : 2023/09 ~ 2023/12
+- 주 1회 오프라인 모임을 통한 스터디 내용 공유
+- 공유 내용은 tech-blog에 기록 및 저장
 
-1. ordered item
-2. ordered item 
-   * **unordered**
-   * **unordered** 
-     1. ordered item
-     2. ordered item
-3. ordered item
-4. ordered item
+<br>
+<br>
 
-### Ordered -- Unordered -- Unordered
+## 강의 내용
+---
 
-1. ordered item
-2. ordered item 
-   * **unordered**
-   * **unordered** 
-     * unordered item
-     * unordered item
-3. ordered item
-4. ordered item
 
-### Unordered -- Ordered -- Unordered
-
-* unordered item
-* unordered item 
-  1. ordered
-  2. ordered 
-     * unordered item
-     * unordered item
-* unordered item
-* unordered item
-
-### Unordered -- Unordered -- Ordered
-
-* unordered item
-* unordered item 
-  * unordered
-  * unordered 
-    1. **ordered item**
-    2. **ordered item**
-* unordered item
-* unordered item
-
-### Task Lists
-
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+|구분|강의명|기술 스택|구성|
+|---|---|---|---|
+|프론트엔드|한번에 끝내는 프론트엔드 개발|● javaScript <br> ● React <br> ● Vue <br> ● GraphQI 등|● 스타벅스 홈페이지 클론 코딩 <br> ● 영화 정보 검색용 웹사이트 만들기 <br> ● 상품 판매 가능한 쇼핑몰 사이트 만들기 등|
+|백엔드|0개 프로젝트로 완성하는 백엔드 웹개발(java/Spring)|● Spring <br> ● Kafka <br> ● Redis <br> ● MySQL <br> ● AWS 등|● 용량 데이터 처리 프로젝트 <br> ● 대규모 트래픽을 고려한 간단한 sns 서비스 <br> ● 외부 API와 공공 데이터 활용 약국 찾기 서비스 <br> ● PT 이용권 관리 서비스 등|
