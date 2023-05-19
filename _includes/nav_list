@@ -14,6 +14,9 @@
         {% endif %}
 
         {% if nav.children != null %}
+        <ul>
+          {% for child in nav.children %}
+          
           {% comment %}
              아래 부분은 카테고리 옆에 해당 카테고리에 해당하는 포스트 수를 표시하기 위해 수정되었습니다.
              navigation.yml에서 children 부분에 하위 속성으로 category를 추가합니다.
