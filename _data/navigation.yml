@@ -27,3 +27,8 @@ docs:
       - title: "openAI"
         url: /categories/openAI
         category: "openAI"
+  - title : Others
+    children:
+      - title: "git-blog"
+        url: /categories/git-blog
+        category: "git-blog"
