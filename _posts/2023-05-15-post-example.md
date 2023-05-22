@@ -1,5 +1,8 @@
 ---
 title: "[TEST] Full Stack 스터디 계획"
+author:
+  name: 박민재
+  link: https://github.com/MIMjae
 categories:
   - etc
 # tags:
