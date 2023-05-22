@@ -7,8 +7,8 @@ main:
   - auto_categories: true
   - title: "Home"
     url: https://MIMjae.github.io
-  - title: "Posts"
-    url: /year-archive/
+#  - title: "Posts"
+#    url: /year-archive/
   - title: "Category"
     url: /categories/
   - title: "Tags"
