@@ -31,9 +31,9 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 17번째 열부터 Site setting을 수정할 수 있다.
 
-title, name, description, repository 을 수정하였다. repository는 수정해놓는 것이 좋다. (언젠가 필요했던 것 같으나 추후에 찾아 작성하겠음.) 
+title, name, description, repository 을 수정하였다. repository는 수정해놓는 것이 좋다. 
 
-```html
+```python
 locale                   : "en-US"
 title                    : "MIMjae's blog"
 title_separator          : "-"
@@ -53,7 +53,7 @@ repository               : "MIMjae/MIMjae.github.io" # GitHub username/repo-name
 
 links 부분은 프로필 하단에 표시되는 SNS, Github 이다. 필요한 것만 남기고 나머지는 삭제 혹은 주석처리하면 된다.
 
-```html
+```python
 author:
   name             : "MIMjae"
   avatar           : "/assets/images/bio-photo.jpg"
@@ -77,7 +77,7 @@ author:
 
 post, page 등의 설정에 필요한 부분이다. 기본 설정에서 가장 중요한 부분이라고 할 수 있다. yaml 파일 제일 하단에 추가만 해주면 된다. 
 
-```html
+```python
 # Defaults
 defaults:
   # _posts
