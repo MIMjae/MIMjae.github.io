@@ -1,5 +1,5 @@
 ---
-title: "[gitblog] Minimal Mistakes로 git-blog 생성하기"
+title: "[gitblog] Minimal Mistakes git-blog 생성"
 categories:
   - git-blog
 # tags:
@@ -69,7 +69,7 @@ sidebar:
 --- 
 
 [[Github Blog] Jekyll - minimal mistakes 시작하기](https://velog.io/@eona1301/Github-Blog-Jekyll-minimal-mistakes-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
-
+<br>
 [GitHub 블로그 기본 설정하기](https://devinlife.com/howto%20github%20pages/blog-config/)
 
 <br><br>
