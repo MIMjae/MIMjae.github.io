@@ -1,5 +1,5 @@
 ---
-title: "웹 애플리케이션 이해"
+title: "[Backend] 웹 애플리케이션 이해"
 categories: 
   - Backend
 # tags:
@@ -19,7 +19,7 @@ sidebar:
     - HTTP/1.1 , HTTP/2는 TCP 기반 위에서 동작 (3-way handshake 통해서 연결)
     - HTTP/3는 UDP 기반 위에서 동작 (3-way handshake로 연결될 필요가 없음)
 
-- HTTP 요청/응답 메시지 구조
+- HTTP 요청/응답 메시지 구조 <br>
   ![image](https://github.com/MIMjae/MIMjae.github.io/assets/84848848/56b3bf3a-e343-426b-8c1b-688613652159)
 
   - 규칙대로 클라이언트와 서버가 데이터를 주고받음
@@ -28,7 +28,7 @@ sidebar:
   - 클라이언트-서버 모델
   - 무상태 프로토콜(Stateless)
     - 서버가 클라이언트 상태를 유지하지 않음
-    - 해결책 : Keep-Alive 속성 사용
+    - 해결책 : Keep-Alive 속성 사용<br>
     ![image](https://github.com/MIMjae/MIMjae.github.io/assets/84848848/0f4fe91b-144c-423d-b799-8181a872d096)
     - 일정시간동안 연결 유지, 잘못사용하게되면 웹스레드 부족(클라이언트 多)
 
