@@ -14,6 +14,7 @@ sidebar:
 - 자바 애플리케이션에서 DB 프로그래밍을 할 수 있도록 도와주는 표준 인터페이스
 - JDBC 인터페이스들을 구현한 구현체들은 각 데이터베이스 벤더 사들이 제공 > JDBC 드라이브
 - DB를 변경하더라고 코드 변경 없이 동일한 JDBC 코드 사용 가능
+
 ![image](https://github.com/MIMjae/MIMjae.github.io/assets/84848848/9997d770-73f9-4096-b00e-3724bcfbc08b)
 
   
