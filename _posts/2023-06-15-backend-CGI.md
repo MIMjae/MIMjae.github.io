@@ -12,9 +12,6 @@ sidebar:
 <br><br>
 
 ### 1. CGI 프로그램과 서블릿
-
-<br><br>
-
 #### CGI (Common Gateway Interface)
 ---
 - 웹 서버와 애플리케이션 사이에 데이터를 주고받는 규약
@@ -57,11 +54,6 @@ sidebar:
 
 
 ### 2. 계산기 서블릿 실습
-
-
-<br><br>
-
-
 #### 프로그램 구조
 --- 
 ![image](https://github.com/MIMjae/MIMjae.github.io/assets/84848848/be20baa7-503a-4802-abc9-adbfc1975bd8)
