@@ -1,5 +1,5 @@
 ---
-title: "[GEOPandas] 파이썬 지도 시각화"
+title: "[GeoPandas] 파이썬 지도 시각화"
 categories:
   - Data Ananlytics
 # tags:
