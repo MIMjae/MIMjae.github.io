@@ -18,6 +18,9 @@ main:
 docs:
   - title : Study
     children:
+      - title: "Data Ananlytics"
+        url: /categories/DA
+        category: "Data Ananlytics"
       - title: "Front"
         url: /categories/Front
         category: "Front"
