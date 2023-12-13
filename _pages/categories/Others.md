@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-{% assign posts = site.categories['Front']%}
+{% assign posts = site.categories['Others']%}
 {% for post in posts %}
   {% include archive-single.html type=page.entries_layout %}
 {% endfor %}
