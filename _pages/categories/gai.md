@@ -1,8 +1,8 @@
 ---
-title: "openAI"
+title: "Generative AI"
 layout: archive
-permalink: /categories/openAI/
-taxonomy: openAI
+permalink: /categories/gai/
+taxonomy: Generative AI
 sidebar:
   nav: "docs"
 ---

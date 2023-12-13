@@ -27,11 +27,14 @@ docs:
       - title: "Backend"
         url: /categories/Backend
         category: "Backend"
-      - title: "openAI"
-        url: /categories/openAI
-        category: "openAI"
+      - title: "Generative AI"
+        url: /categories/gai
+        category: "Generative AI"
   - title : Others
     children:
       - title: "git-blog"
         url: /categories/git-blog
         category: "git-blog"
+      - title: "Others"
+        url: /categories/Others
+        category: "Others"
